@@ -29,9 +29,9 @@ Estimate of time needed to complete: 1 hr
 
 Start time: 7:15 am
 
-Finish time: 
+Finish time: 8:00 am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 45 min
 
 ```
 
@@ -39,11 +39,11 @@ Number and name of feature: Feature #2 - Modify the Contents
 
 Estimate of time needed to complete: 1 hr
 
-Start time: 7:45 am
+Start time: 8:00 am
 
 Finish time: 
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hr
 
 ```
 
